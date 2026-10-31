@@ -1,8 +1,13 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.vinay.diamondkarigar",
-        "sha256_cert_fingerprints": ["AA:C5:B9:CB:E1:7D:3B:6B:7A:FD:27:98:AA:DB:3B:DD:D1:08:FB:A9:60:F5:74:34:6B:4D:91:72:FE:7D:4A:15"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.vinay.diamondkarigar",
+      "sha256_cert_fingerprints": [
+        "AA:C5:B9:CB:E1:7D:3B:6B:7A:FD:27:98:AA:DB:3B:DD:D1:08:FB:A9:60:F5:74:34:6B:4D:91:72:FE:7D:4A:15",
+        "4F:87:11:43:07:68:82:39:C5:B8:12:84:AB:DF:2E:0A:FD:47:CB:2E:A1:51:D2:90:56:A4:34:90:F7:1A:83:EF"
+      ]
+    }
+  }
+]
